@@ -3,6 +3,7 @@
 ## The Challenge
 Refactor an existing webpage in order to make it accessible and optimized for search engines.
 ![image](https://user-images.githubusercontent.com/118794860/209580436-04946e19-9962-4a02-9625-d34be1237eb8.png)
+
 Acceptance criteria for the webpage:
 - Meets accessibility standards
 - Applies semantic HTML elements
