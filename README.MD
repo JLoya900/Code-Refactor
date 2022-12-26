@@ -1,6 +1,8 @@
 ## <Module 1 Challenge>
 
-This project is one of the first in the many I will begin to create for this UCLA coding Bootcamp. The Motivation for it's completeness comes from my eagerness and hunger to learn both CSS and HTML.
+In this project I am tasked with the consolodation of existing code and ensuring that all links contained in it are functioning. I am to rework existing CSS and html to make the webpage as user friendly as possible and meets all accessibility standards.
+
+This project is the first of many I will work on for the UCLA coding Bootcamp and the Motivation for its completeness comes from my eagerness and hunger to learn both CSS and HTML and learning how to apply both in a work environment. 
 
 #Acceptance Criteria
 GIVEN a webpage meets accessibility standards
