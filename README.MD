@@ -1,6 +1,6 @@
 ## <Module 1 Challenge>
 
-This project is one of the first in the many I will begin to create for this UCLA coding Bootcamp. This assignment is not technically required so my motivation for it comes from my eagerness and hunger to learn both CSS and HTML The code I wrote for this assigment 
+This project is one of the first in the many I will begin to create for this UCLA coding Bootcamp. The Motivation for it's completeness comes from my eagerness and hunger to learn both CSS and HTML.
 
 #Acceptance Criteria
 GIVEN a webpage meets accessibility standards
